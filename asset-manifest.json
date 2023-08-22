@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Real-State/static/css/main.41974bca.css",
+    "main.js": "/Real-State/static/js/main.fa8c2a2f.js",
+    "static/js/787.ec704a7a.chunk.js": "/Real-State/static/js/787.ec704a7a.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Real-State/static/media/fa-solid-900.d75e3fd1eb12e9bd6655.ttf",
+    "static/media/fa-brands-400.ttf": "/Real-State/static/media/fa-brands-400.016b4a6cdced82ab3aa1.ttf",
+    "static/media/about2.png": "/Real-State/static/media/about2.e0519da1ed04ccf5d7ea.png",
+    "static/media/fa-solid-900.woff2": "/Real-State/static/media/fa-solid-900.b6879d41b0852f01ed5b.woff2",
+    "static/media/4.jpg": "/Real-State/static/media/4.7bcb1e1d7ede42485f67.jpg",
+    "static/media/header.jpg": "/Real-State/static/media/header.46926fbec9fe4630f01b.jpg",
+    "static/media/fa-brands-400.woff2": "/Real-State/static/media/fa-brands-400.878f31251d960bd6266f.woff2",
+    "static/media/h1_hero1.jpg": "/Real-State/static/media/h1_hero1.24769deacad9446d10b5.jpg",
+    "static/media/1.jpg": "/Real-State/static/media/1.4c44c68bf06810dea25f.jpg",
+    "static/media/about1.png": "/Real-State/static/media/about1.c0ed3d8af4c9ffb587f7.png",
+    "static/media/3.jpg": "/Real-State/static/media/3.137a4db68a5ff60ece51.jpg",
+    "static/media/2.jpg": "/Real-State/static/media/2.c8a79819303c6bc1dc91.jpg",
+    "static/media/blog1.jpg": "/Real-State/static/media/blog1.b84a8b55e7c6c4582062.jpg",
+    "static/media/fa-regular-400.ttf": "/Real-State/static/media/fa-regular-400.50701fbb8177c2dde530.ttf",
+    "static/media/bg1.jpg": "/Real-State/static/media/bg1.f7951e739324e74910e8.jpg",
+    "static/media/b3.jpg": "/Real-State/static/media/b3.858dbdc23df8831e9914.jpg",
+    "static/media/b1.jpg": "/Real-State/static/media/b1.5dbe53ef6f86cc287999.jpg",
+    "static/media/b2.jpg": "/Real-State/static/media/b2.6e211d4ece4d639183d6.jpg",
+    "static/media/fa-regular-400.woff2": "/Real-State/static/media/fa-regular-400.b041b1fa4fe241b23445.woff2",
+    "static/media/customer3.png": "/Real-State/static/media/customer3.305d35b7900280ab917b.png",
+    "static/media/fa-v4compatibility.ttf": "/Real-State/static/media/fa-v4compatibility.c6a0c95b0a95c4553700.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Real-State/static/media/fa-v4compatibility.1bac2991f3dbfa237aec.woff2",
+    "index.html": "/Real-State/index.html",
+    "main.41974bca.css.map": "/Real-State/static/css/main.41974bca.css.map",
+    "main.fa8c2a2f.js.map": "/Real-State/static/js/main.fa8c2a2f.js.map",
+    "787.ec704a7a.chunk.js.map": "/Real-State/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41974bca.css",
+    "static/js/main.fa8c2a2f.js"
+  ]
+}

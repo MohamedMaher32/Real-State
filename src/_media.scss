@@ -1,0 +1,53 @@
+$main-color: #e22104;
+$white-text: #fff;
+$text-color: #14303a;
+@media screen and (max-width:992px) {
+    nav{
+        .navbar-collapse{
+            background: $main-color;
+    }
+    .navbar-toggler{
+        border: none;
+        &:focus{
+            box-shadow: none;
+        }
+    }
+        .nav-item{
+            .nav-link{
+                margin: 10px 0;
+                text-align: center;
+                font-size: 16px !important;
+                color: $white-text !important;
+                transition: color 0.5s;
+                border-bottom: 1px solid $white-text;
+                &:hover{
+                    color: $text-color !important
+                }
+            }
+            .nav-link.active{
+                color: $text-color !important;
+            }
+        }
+    }
+}
+@media screen and (max-width:767px) {
+    .home{
+        .main{
+            .layout{
+                h1 ,h2{
+                    font-size: 37px !important;
+                }
+            }
+        }
+        .about{
+            .txt{text-align: center !important;
+
+                    h3{
+                    font-size: 21px !important;
+                }
+            }
+           
+        }
+    }
+    
+}
